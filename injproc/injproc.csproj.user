@@ -1,0 +1,11 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"injlib.dll" "notepad.exe"</StartArguments>
+    <StartAction>Project</StartAction>
+    <StartProgram>
+    </StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>-test "http://127.0.0.1:1081/" "Password=q;User ID=sa;Initial Catalog=MapErrors;Data Source=127.0.0.1\SQLEXPRESS"</StartArguments>
+  </PropertyGroup>
+</Project>

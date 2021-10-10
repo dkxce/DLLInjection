@@ -1,0 +1,12 @@
+C:\Downloads\CD-REC\TEST\injproc\injproc\bin\Debug\injproc.exe
+C:\Downloads\CD-REC\TEST\injproc\injproc\bin\Debug\injproc.pdb
+C:\Downloads\CD-REC\TEST\injproc\injproc\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\injproc\injproc\obj\Debug\injproc.exe
+C:\Downloads\CD-REC\TEST\injproc\injproc\obj\Debug\injproc.pdb
+C:\Downloads\CD-REC\TEST\injproc\Debug\injproc.exe
+C:\Downloads\CD-REC\TEST\injproc\Debug\injproc.pdb
+C:\Downloads\CD-REC\injection_dll_and_proc_HTML\injproc\obj\Debug\injproc.exe
+C:\Downloads\CD-REC\injection_dll_and_proc_HTML\injproc\obj\Debug\injproc.pdb
+C:\Downloads\CD-REC\injection_dll_and_proc_HTML\injproc\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\injection_dll_and_proc_HTML\Debug\injproc.exe
+C:\Downloads\CD-REC\injection_dll_and_proc_HTML\Debug\injproc.pdb
